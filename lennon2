@@ -1,0 +1,15 @@
+tthis is awsome 
+
+first you must spefy your name (git config --global user.name "lennon Epie" 
+then email address (git config --global user.email lennon35 @yahoo.com
+git config --global init.default branch main 
+git config -h =to get help and see the different commands 
+change directory (cd ) into your file and location and to get your repo,
+type git init ,this will initialise your repo.
+then you can check git staus , by "git status" to see any files in the repo
+to track a file you do git add and specify the file you want to track 
+to untrack the file use the command git rm --cached and file name 
+to track all file git add --all, or git add -A, or git add .
+to rename your file (git mv "xxx" "xxx"
+to check every changes (git log)
+to modify (git rebase -i --root)i
